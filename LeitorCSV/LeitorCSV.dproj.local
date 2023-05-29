@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/15 19:17:58.000.209,=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/24 17:22:57.000.162,=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/27 22:00:14.000.276,=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/27 22:17:51.000.692,=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/28 13:33:44.000.848,=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 22:40:08.000.033,=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/23 21:02:22.000.149,=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/14 16:05:54.000.920,=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 17:26:10.136,=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 17:27:59.079,E:\Projetos\LeitorCSV\untLeitorCSV.pas=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 17:27:59.079,E:\Projetos\LeitorCSV\untLeitorCSV.dfm=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/27 17:28:06.027,E:\Projetos\LeitorCSV\LeitorCSV.dproj=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/27 19:03:33.660,=E:\Projetos\LeitorCSV\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:04:02.656,E:\Projetos\LeitorCSV\botao.base.pas=E:\Projetos\LeitorCSV\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:04:02.656,E:\Projetos\LeitorCSV\botao.base.dfm=E:\Projetos\LeitorCSV\Unit1.dfm</Transaction>
+    <Transaction>2023/05/27 20:55:55.053,=E:\Projetos\LeitorCSV\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 20:56:19.507,E:\Projetos\LeitorCSV\botao.Importar.pas=E:\Projetos\LeitorCSV\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 20:56:19.507,E:\Projetos\LeitorCSV\botao.Importar.dfm=E:\Projetos\LeitorCSV\Unit1.dfm</Transaction>
+    <Transaction>2023/05/27 21:16:43.585,=E:\Projetos\LeitorCSV\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 21:17:11.265,E:\Projetos\LeitorCSV\botao.Salvar.pas=E:\Projetos\LeitorCSV\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 21:17:11.265,E:\Projetos\LeitorCSV\botao.Salvar.dfm=E:\Projetos\LeitorCSV\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="0031720617" Android64="0031720617"/>
+	</ActiveMobileDevice>
+</BorlandProject>
